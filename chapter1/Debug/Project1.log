@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(Project1.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  01-1.c
+  01-2.c
+  코드를 생성하고 있습니다...
+01-2.obj : error LNK2005: _main이(가) 01-1.obj에 이미 정의되어 있습니다.
+C:\Users\rkfka\OneDrive\바탕 화면\STUDY\혼자 공부하는 C언어\chapter1\Debug\chapter1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
